@@ -1,0 +1,7 @@
+# Ignorera Visual Studio-specifika filer
+.vs/
+
+# Ignorera systemfiler och cache
+node_modules/
+*.log
+.DS_Store
